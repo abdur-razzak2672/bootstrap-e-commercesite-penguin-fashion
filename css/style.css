@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.panda-header{
+    background-color: #fffbf0;
+}
+
+.penguins{
+    font-weight: 700;
+    color: #fabe4c;
+}
+
+.penguins span{
+    color: #363958;
+}
+
+button{
+    background-color: #9ab337 !important ;
+    width: 35%;
+    
+     
+}
+
+.jacket-text{
+    color: #363958;
+    font-weight: 700;
+
+}
+
+.woman-jacket{
+    background-color: #f0f0f0;
+    height: 50%;
+
+}
+.woman-jacket img{
+    width: 65%;
+}
+h1{
+    color: #fabe4c;
+}
+
+.card-image{
+    border-radius: 15px;
+}
+.card-image img{
+    width: 15%;
+ 
+    
+}
+
+ 
